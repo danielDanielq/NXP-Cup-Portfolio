@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\geometry2D.h(43,2): warning C4091: 'typedef ': ignored on left of 'ParabolaABC' when no variable is declared
+C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\geometry2D.h(573,17): warning C4305: 'return': truncation from 'double' to 'float'
+C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\geometry2D.h(581,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\geometry2D.h(585,17): warning C4305: 'return': truncation from 'double' to 'float'
+C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\geometry2D.h(593,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\main.cpp(12,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\main.cpp(19,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\main.cpp(47,80): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\main.cpp(48,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\main.cpp(49,80): warning C4305: 'argument': truncation from 'double' to 'float'
+  calculateCarSpeed.vcxproj -> C:\OneDrive\OneDrive - Universitatea Politehnica Timisoara\Programming\arduino\NXP-Cup-2024-PixyVectors\Unitest\calculateCarSpeed\x64\Debug\calculateCarSpeed.exe
